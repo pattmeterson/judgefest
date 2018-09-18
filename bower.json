@@ -1,0 +1,17 @@
+{
+  "name": "judgefest",
+  "version": "0.0.1",
+  "license": "Proprietary",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery-validation": "^1.15.0"
+  }
+}
